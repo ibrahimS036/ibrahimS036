@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"<b>My name is Ibrahim Shaikh</b> and I'm a <b>Software Devloper</b>, from <b>Mumbai</b>.</p>
+<p align="left"My name is <b>Ibrahim Shaikh</b> and I'm a <b>Software Devloper</b>, from <b>Mumbai</b>.</p>
 
 ###
 
