@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ibrahim Shaikh and I'm a Software Devloper, from Mumbai.</p>
+<p align="left"> <b>My name is Ibrahim Shaikh</b> and I'm a<b>Software Devloper</b>, from <b>Mumbai</b>.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 03/04/2000<br>📚 I'm currently learning Web Devlopment<br>🎯 Goals: I want to be a Problem Solver<br>🎲 Fun fact:The world is about to end...</p>
 
 ###
 
