@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 03/04/2000<br>📚 I'm currently learning Web Devlopment<br>🎯 Goals: I want to be a Problem Solver<br>🎲 Fun fact:The world is about to end...</p>
+<p align="left">✨ Creating bugs since 03/04/2000<br>📚 I'm currently learning Web Devlopment<br>🎯 Goals: Wanna be a Problem Solver<br>🎲 Fun fact:The first programming language was called FORTRAN</p>
 
 ###
 
